@@ -10,12 +10,10 @@
 
 ```typescript
 const sourish = {
-  title: "Backend Engineer & Full-Stack Developer",
+  title: "Backend focused full stack developer",
   location: "Kolkata, India 🇮🇳",
   education: "B.Tech ECE @ IEM Kolkata",
   cgpa: "8.9",
-  experience: "2+ years",
-  currentFocus: "AI-Powered Legal Tech",
   lifePhilosophy: "Code. Solve. Repeat. 🔄"
 };
 ```
