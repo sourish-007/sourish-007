@@ -11,10 +11,10 @@
 ```typescript
 const sourish = {
   title: "Backend focused full stack developer",
-  location: "Kolkata, India 🇮🇳",
+  job: "SDE @ Keysight Technologies",
   education: "B.Tech ECE @ IEM Kolkata",
   cgpa: "8.9",
-  lifePhilosophy: "Code. Solve. Repeat. 🔄"
+  lifePhilosophy: "Code. Solve. Repeat"
 };
 ```
 
