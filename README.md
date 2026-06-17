@@ -13,7 +13,7 @@ const sourish = {
   title: "Backend Engineer & Full-Stack Developer",
   location: "Kolkata, India 🇮🇳",
   education: "B.Tech ECE @ IEM Kolkata",
-  cgpa: "8.95/10",
+  cgpa: "8.9/10",
   experience: "2+ years",
   currentFocus: "AI-Powered Legal Tech",
   lifePhilosophy: "Code. Solve. Repeat. 🔄"
